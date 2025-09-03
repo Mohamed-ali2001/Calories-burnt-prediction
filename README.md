@@ -38,5 +38,4 @@ This project predicts the number of calories burnt during exercise using biometr
 - `requirements.txt`: List of required Python libraries
 - `trained_best_model.sav`: Saved best model for deployment
 
-## Author
-This project was developed by a data scientist for educational and demonstration purposes.
+
