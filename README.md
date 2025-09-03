@@ -1,5 +1,5 @@
 # Calories Burnt Prediction Web App
-
+![Streamlit App Screenshot](app_screenshot.png)
 ## Project Overview
 This project predicts the number of calories burnt during exercise using biometric and activity features. It leverages machine learning models trained on the Kaggle "Calories Burnt Prediction" dataset and provides an interactive web app for predictions.
 
